@@ -10,3 +10,16 @@ Commit text: This is a test document.
 
 Here is the big cat
 ![Image of Maine Coon](https://hips.hearstapps.com/hmg-prod/images/large-cat-breed-maine-coon-1553270773.jpg?crop=1xw:1xh;center,top&resize=980:*)
+
+What is this about? 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+I don't understand waht git init means... but maybe someday I will. 
+
+What's this about? I bet its javascript.
+``` javascript
+var myVar = "Hello, world!";
+```
